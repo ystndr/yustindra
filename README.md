@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fuaddi Yustindra</h1>
 <h3 align="center">A 東京-based Cloud & Data Engineer 👷</h3>
 
-- 👨‍💻 I’m currently working for **a Dutch financial firm**
+- 👨‍💻 Currently working for **a Dutch financial firm**
 
-- 🎓 I’m currently doing **a CS master's degree** at **the University of Pennsylvania**
+- 📫 Focusing on **data architecture development** on cloud (mainly **Azure**)
 
-- 🌏 I speak **Bahasa Indonesia 🇮🇩**, **English 🇬🇧**, **日本語 🇯🇵**, while learning **Español 🇪🇸**, **عربى 🇸🇦**, and **Nederlands 🇳🇱**. 
+- 🎓 Doing **a CS master's degree** at **the University of Pennsylvania**
 
-- 📫 Reach me at **ystndr@seas.upenn.edu**
+- 🌏 Speak **Bahasa Indonesia 🇮🇩**, **English 🇬🇧**, **日本語 🇯🇵**, while learning **Español 🇪🇸**, **عربى 🇸🇦**, and **Nederlands 🇳🇱** 
 
-- ⚡ Fun fact **keeping streaks in Duolingo is fun**
+- 📫 Reachable at **ystndr@seas.upenn.edu**
+
+- ⚡ Fun fact: **keeping streaks in Duolingo is underrated**
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
