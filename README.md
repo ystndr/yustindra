@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Fuaddi</h1>
-<h3 align="center">A multilingual data engineer in Tokyo</h3>
+<h1 align="center">Hi 👋, I'm Fuaddi Yustindra</h1>
+<h3 align="center">Tokyo-based data engineer</h3>
 
 - 🔭 I’m currently working for **a Dutch financial firm**
 
 - 🌱 I’m currently doing **a CS master's degree at Penn**
 
-- 🌏 I speak **Bahasa Indonesia 🇮🇩, English 🇬🇧, 日本語 🇯🇵** 
+- 🌏 I speak **Bahasa Indonesia 🇮🇩**, **English 🇬🇧**, **日本語 🇯🇵**, while learning **Español 🇪🇸**, **عربى 🇸🇦**, and **Nederlands 🇳🇱**. 
 
 - 📫 How to reach me **ystndr@seas.upenn.edu**
 
