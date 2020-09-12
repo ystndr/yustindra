@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working for **a Dutch financial firm**
 
-- 🌱 I’m currently doing **a CS master's degree at Penn**
+- 🌱 I’m currently doing **a CS master's degree at the University of Pennsylvania**
 
 - 🌏 I speak **Bahasa Indonesia 🇮🇩**, **English 🇬🇧**, **日本語 🇯🇵**, while learning **Español 🇪🇸**, **عربى 🇸🇦**, and **Nederlands 🇳🇱**. 
 
-- 📫 How to reach me **ystndr@seas.upenn.edu**
+- 📫 Reach me at **ystndr@seas.upenn.edu**
 
 - ⚡ Fun fact **keeping streaks in Duolingo is fun**
 
