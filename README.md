@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuaddi Yustindra</h1>
-<h3 align="center">A 東京-based cloud & data engineer 👷</h3>
+<h3 align="center">A 東京-based Cloud & Data Engineer 👷</h3>
 
 - 👨‍💻 I’m currently working for **a Dutch financial firm**
 
