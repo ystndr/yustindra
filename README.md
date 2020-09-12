@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently doing **a CS master's degree at Penn**
 
-- 📝 I regulary write articles on [medium.com/@yustindra](medium.com/@yustindra)
+- 🌏 I speak **Bahasa Indonesia 🇮🇩, English 🇬🇧, 日本語 🇯🇵** 
 
 - 📫 How to reach me **ystndr@seas.upenn.edu**
 
