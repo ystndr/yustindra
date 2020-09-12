@@ -18,7 +18,7 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yustindra&show_icons=true&count_private=true&theme=algolia" alt="yustindra" />
   </a>
   <a href="https://github.com/yustindra/yustindra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yustindra&count_private=true&theme=algolia" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yustindra&count_private=true&theme=algolia" />
   </a>
 </p>
 
