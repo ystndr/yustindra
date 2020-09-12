@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fuaddi Yustindra</h1>
-<h3 align="center">Tokyo-based data engineer 👷</h3>
+<h3 align="center">東京-based data engineer 👷</h3>
 
-- 👨‍💻 I’m currently working for **a Dutch financial firm**
+- 👨‍💻 I’m currently worting for **a Dutch financial firm**
 
 - 🎓 I’m currently doing **a CS master's degree** at **the University of Pennsylvania**
 
