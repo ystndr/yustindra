@@ -9,7 +9,7 @@
 
 - 🌏 Speak **Bahasa Indonesia 🇮🇩**, **English 🇬🇧**, **日本語 🇯🇵**, while learning **Español 🇪🇸**, **عربى 🇸🇦**, and **Nederlands 🇳🇱** 
 
-- 📫 Reachable at **ystndr@seas.upenn.edu**
+- 📫 Reachable at **ystndr@upenn.edu**
 
 - ⚡ Fun fact: **keeping streaks in Duolingo is underrated**
 
