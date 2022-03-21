@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fuaddi Yustindra</h1>
-<h3 align="center">A 東京-based Cloud & Data Engineer 👷</h3>
+<h1 align="center">Hi 👋, I'm Yustindra</h1>
+<h3 align="center">A 東京-based Cloud Engineer 👷</h3>
 
-- 👨‍💻 Currently working for **a Dutch financial firm**
-
-- 📫 Focusing on **data architecture development** on cloud (mainly **Azure**)
+- 📫 Focusing on **security** and **reliability engineering** on cloud (mainly **Azure**)
 
 - 🎓 Doing **a CS master's degree** at **the University of Pennsylvania**
 
